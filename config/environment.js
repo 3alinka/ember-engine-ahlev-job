@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   const ENV = {
-    name: 'ember-engine-ahlev-job',
+    modulePrefix: 'ember-engine-ahlev-job',
     environment: environment
   }
   
