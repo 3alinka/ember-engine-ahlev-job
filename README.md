@@ -1,8 +1,9 @@
-ember-engine-ahlev-job
+Job Module
 ==============================================================================
 
-[Short description of the addon.]
+This is a module of [ahlev.com](https://ahlev.com).
 
+The architecture design could be found in [Main App](https://github.com/ohahlev/ember-ahlev-app)
 
 Compatibility
 ------------------------------------------------------------------------------
@@ -16,14 +17,17 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install ember-engine-ahlev-job
+ember install https://github.com/ohahlev/ember-engine-ahlev-job
 ```
 
 
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+This provides:
+- components
+- routes
+- services
 
 
 Contributing
